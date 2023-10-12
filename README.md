@@ -10,6 +10,9 @@ MIEM SciBERT is designed for
 * [Project page at MIEM cabinet](https://cabinet.miem.hse.ru/#/project/371/)
 * [Short note about project on the lab site](https://miem.hse.ru/edu/ce/cadsystem/da_short_text)
 
+## How to cite    
+I.K. Kusakin, O.V. Fedorets, and A.Y. Romanov, **Classification of Short Scientific Texts** // Scientific and Technical Information Processing, 2023, Vol. 50, No. 3, pp. 176–183. DOI: 10.3103/S0147688223030024    
+
 ## Model usage
 
 * Open [notebook with model usage example](https://drive.google.com/file/d/1UZVhmA9LHL6Zsji-_9i_eJILmjhEziQz/view?usp=sharing) at Google Colab
